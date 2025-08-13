@@ -7,8 +7,8 @@ Download videos from spankbang with this easy to use browser extension.
 ## 🔗 Links
 
 - 🎁 Get it [here](https://serp.ly/spankbang-video-downloader)
-- 🐛 Report bugs [here](https://github.com/serpapps/spankbang-video-downloader/issues)
-- 🆕 Request features [here](https://github.com/serpapps/spankbang-video-downloader/issues)
+- 🐛 Report bugs [here](https://github.com/serpxxx/spankbang-video-downloader/issues)
+- 🆕 Request features [here](https://github.com/serpxxx/spankbang-video-downloader/issues)
 - 🆘 Get help [here](https://support.serp.co/)
 
 
