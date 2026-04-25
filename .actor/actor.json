@@ -1,0 +1,10 @@
+{
+  "actorSpecification": 1,
+  "buildTag": "latest",
+  "description": "Download videos from SpankBang in MP4 format. This browser extension works on all SpankBang pages including standard videos, embedded players, and the mobile site, automatically detecting videos and showing available quality options.\n\nSelect your preferred quality and download videos directly to your computer with clear progress indicators. All files are saved as standard MP4s for offline viewing.\n\nSimple, straightforward operation with local processing for privacy. Compatible with Chrome, Edge, Firefox, Brave, and Opera.",
+  "input": "./INPUT_SCHEMA.json",
+  "name": "spankbang-video-downloader",
+  "readme": "../ACTOR.md",
+  "title": "SpankBang Downloader",
+  "version": "0.0"
+}
