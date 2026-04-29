@@ -1,4 +1,4 @@
-# SpankBang Downloader Browser Extension
+# SpankBang Downloader
 
 > Download supported SpankBang videos as MP4 files from watch pages in your browser.
 
