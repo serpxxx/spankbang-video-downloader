@@ -5,6 +5,6 @@
   "input": "./INPUT_SCHEMA.json",
   "name": "spankbang-video-downloader",
   "readme": "../ACTOR.md",
-  "title": "SpankBang Downloader Browser Extension",
+  "title": "SpankBang Downloader",
   "version": "0.0"
 }
