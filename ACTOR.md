@@ -1,6 +1,10 @@
-# SpankBang Downloader
+# SpankBang Video Downloader | How to Download SpankBang Videos
 
 > Download supported SpankBang videos as MP4 files from watch pages in your browser.
+
+## Get it Here
+
+Get it here: https://serp.ly/spankbang-video-downloader
 
 ![SpankBang Downloader](https://raw.githubusercontent.com/serpxxx/spankbang-video-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ SpankBang Downloader is a browser extension for users who want a more reliable w
 - Export MP4 files for simpler offline playback
 - Avoid manual URL extraction and generic downloader misses
 - Keep the workflow fully inside the browser
-
-## Get it Here
-
-Get it here: https://serp.ly/spankbang-video-downloader
-
 ## Table of Contents
 
 - [Why SpankBang Downloader](#why-spankbang-downloader)
